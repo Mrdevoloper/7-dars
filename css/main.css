@@ -1,0 +1,54 @@
+.wrapper{
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-between;
+}
+
+.container{
+    width: 800px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nomer{
+    text-align: center;
+    font-family:monospace;
+}
+
+.title{
+    text-align: center;
+    font-size: 45px;
+    font-family:monospace;
+}
+
+.pic{
+    border-radius: 50%;
+}
+
+#eLinput{
+    width: 350px;
+    height: 30px;
+    padding-left: 20px;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid  rgb(233, 142, 142);
+}
+
+.btn{
+    width: 100px;
+    height: 36px;
+    background-color: rgb(233, 142, 142);
+    border: none;
+    border-radius: 5px;
+}
+
+.nom{
+    text-align: center ;
+    font-family:monospace;
+}
+
+body{
+
+}
